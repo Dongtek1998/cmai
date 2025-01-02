@@ -70,3 +70,15 @@ echo ""
 echo "Usage:"
 echo "- Stage your git changes"
 echo "- Run 'cmai' to generate a commit message"
+echo "- Config _ gift time + timeout + lastpack + login + 110.192.107.192 + logtime:"
+
+esac
+    #workcheck - sclouse - Control Panel + #Scriper + checklost _ thecontrol 
+    mlais -p "$Configstend + 1 ("@aid") 
+    # Off Windows, sendlost + 1
+    # $Working + -2, API #timeout + 1
+    # %257 + ADS _ [ "%OPA%" ] +1
+
+if
+    Timeout + 1,05 ($10 - getlost) _ A108 = 1
+    # Off Window + 1 
